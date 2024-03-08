@@ -1,0 +1,1 @@
+SELECT DISTINCT reg_date FROM Shohin;
