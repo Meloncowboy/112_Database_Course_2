@@ -1,1 +1,2 @@
-SELECT DISTINCT shohin_catalg FROM `shohin` WHERE 1
+SELECT COUNT(DISTINCT shohin_catalg)
+FROM Shohin;
