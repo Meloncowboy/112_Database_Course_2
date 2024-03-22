@@ -1,0 +1,1 @@
+SELECT sum(sell_price) FROM `shohin`;

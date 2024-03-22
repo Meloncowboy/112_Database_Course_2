@@ -1,0 +1,1 @@
+SELECT MIN(reg_date), MAX(reg_date) FROM `shohin`;
