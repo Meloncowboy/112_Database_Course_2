@@ -1,0 +1,1 @@
+drop VIEW shohinjim;
