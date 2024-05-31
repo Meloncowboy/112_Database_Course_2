@@ -1,0 +1,3 @@
+(SELECT * FROM shohin)
+INTERSECT
+(SELECT * FROM shohin2)
